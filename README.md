@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/Coursera-courses-analysis/blob/main/images/coursera.jpg"/>
+  <img height="300px" src="https://github.com/aurimas13/Coursera-courses-analysis/blob/main/public/images/coursera.jpg"/>
 </p>
 
 <p align="center" > <b>Coursera Courses Analysis </b> </p>
